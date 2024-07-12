@@ -10,3 +10,6 @@ cd scripts
 ```
   node azure-test-1.js
 ```
+
+# Create .env file
+## In the root folder, create a .env file and add the config provided by the team.
